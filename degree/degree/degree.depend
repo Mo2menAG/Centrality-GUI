@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561991604 source:c:\users\ledar\pycharmprojects\data_struc\2nd project\degree\degree\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+

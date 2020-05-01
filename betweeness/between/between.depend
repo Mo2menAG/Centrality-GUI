@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561991715 source:c:\users\ledar\pycharmprojects\data_struc\2nd project\betweeness\between\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+

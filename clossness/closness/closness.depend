@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561975994 source:c:\users\ledar\pycharmprojects\data_struc\2nd project\clossness\closness\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+
